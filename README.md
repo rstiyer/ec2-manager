@@ -3,7 +3,7 @@
 Track, manage and alter the state of an EC2 account with a focus on spot
 requests.  The application understands EC2 regions, instances and pools of
 instances.  It does not understand Taskcluster Provisioning specifics like
-Capacity or Utility factors.
+Capacity or Utility factors
 
 ## Architecture EC2-Manager is comprised of X major subsystems:
 
